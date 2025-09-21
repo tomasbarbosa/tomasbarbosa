@@ -69,8 +69,3 @@ I'm a Software Engineer graduate from Portugal, passionate about building robust
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbarbosa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
-
-<!-- NOVO CARD: Gráfico de atividade do último ano -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomasbarbosa&theme=tokyo-night&hide_border=true&hide_title=false&line=bb9af7&point=bb9af7&area=true&area_color=bb9af7" alt="GitHub Activity Graph"/>
-</p>
