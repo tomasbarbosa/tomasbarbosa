@@ -1,6 +1,6 @@
 ### Hi there! I'm Tomás Barbosa 👋
 
-I'm a Software Engineer graduate from Portugal, passionate about building robust systems and creating intuitive digital experiences.
+I'm a Software Engineer graduate from Portugal, passionate about building robust systems and creating intuitive digital experiences. My focus ranges from modern frontend development to complex backend challenges in security and distributed systems.
 
 <!-- Social Badges -->
 <p align="left">
@@ -62,10 +62,15 @@ I'm a Software Engineer graduate from Portugal, passionate about building robust
 
 ### My GitHub Stats
 
-<!-- As suas stats, com um tema escuro que combina com o seu portfólio -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasbarbosa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Tomás's GitHub stats"/>
+  <!-- A ALTERAÇÃO ESTÁ AQUI: Adicionado 'include_all_commits=true' para mostrar os commits totais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasbarbosa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Tomás's GitHub stats"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbarbosa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<!-- NOVO CARD: Gráfico de atividade do último ano -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomasbarbosa&theme=tokyo-night&hide_border=true&hide_title=false&line=bb9af7&point=bb9af7&area=true&area_color=bb9af7" alt="GitHub Activity Graph"/>
 </p>
