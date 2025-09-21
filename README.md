@@ -1,6 +1,6 @@
 ### Hi there! I'm Tomás Barbosa 👋
 
-I'm a Software Engineer graduate from Portugal, passionate about building robust systems and creating intuitive digital experiences. My focus ranges from modern frontend development to complex backend challenges in security and distributed systems.
+I'm a Software Engineer graduate from Portugal, passionate about building robust systems and creating intuitive digital experiences.
 
 <!-- Social Badges -->
 <p align="left">
