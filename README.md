@@ -59,13 +59,6 @@ I'm a Software Engineer graduate from Portugal, passionate about building robust
 </p>
 
 ---
-
-### My GitHub Stats
-
-<p align="center">
-  <!-- A ALTERAÇÃO ESTÁ AQUI: Adicionado 'include_all_commits=true' para mostrar os commits totais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasbarbosa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Tomás's GitHub stats"/>
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbarbosa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
